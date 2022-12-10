@@ -7,8 +7,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "ws": "^7.2.3",
-    "http":"^1.0",
-    "https":"^1.0"
+    "http":"^0.0.1",
+    "https":"^0.0.1"
     
   }
 }
